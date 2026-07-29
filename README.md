@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Priyanshi%20Yadav&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<p align="center">
+  <img src="banner.png.png" width="100%" alt="Banner">
+</p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;C%2B%2B+Enthusiast;Learning+Frontend+Development;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B263B&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+STUDENT;C%2B%2B+Enthusiast;Learning+Frontend+Development;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
 </a>
 
 <br/>
