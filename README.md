@@ -17,18 +17,31 @@
 
 </div>
 
-## 🧑‍💻 Who I Am
-
 ```typescript
 const priyanshi = {
-  title: "CS Student",
-  stack: ["C++", "HTML", "CSS", "JavaScript"],
-  launchedProjects: [], // 🚧 nothing shipped yet — stay tuned!
-  certifications: [],
-  status: "Learning & building fundamentals in C++ and frontend dev",
-  openTo: "Internships, entry-level roles, and collaborative projects",
+  role: "Computer Science Student",
+  currentlyLearning: [
+    "C++",
+    "Data Structures & Algorithms",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  interests: [
+    "Frontend Development",
+    "Open Source",
+    "Problem Solving"
+  ],
+  goals: [
+    "Build impactful projects",
+    "Contribute to Open Source",
+    "Secure a Software Development Internship"
+  ],
+  openTo: "Internships & Collaboration"
 };
 ```
+
+
 
 ## 🛠️ Tech Stack
 
@@ -39,6 +52,28 @@ const priyanshi = {
 **Frontend**
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js)
+
+**Tools**
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+## 🌱 Learning Roadmap
+
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript Basics
+- 🔄 React
+- 🔄 SQL
+- 🔄 Git
+- 🔄 Node.js
+
+## ⭐ Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| Portfolio Website | Personal Portfolio | HTML CSS JS |
+| Weather App | Weather using API | JavaScript |
+| Calculator | Responsive Calculator | HTML CSS JS |
+
 
 ## 📊 GitHub Stats
 
@@ -62,6 +97,18 @@ const priyanshi = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavpriyanshii&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%"/>
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+## ⚡ Fun Facts
+
+- 💙 Love building beautiful websites
+- 📚 Learning something new every day
+- 🚀 Goal: Become a Full-Stack Developer
 
 ## 🤝 Connect With Me
 
