@@ -69,13 +69,14 @@ const priyanshi = {
 - 🔄 Node.js
 
 ## ⭐ Featured Projects
+### 📚 StudyFlow — Student Productivity Dashboard
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| Portfolio Website | Personal Portfolio | HTML CSS JS |
-| Weather App | Weather using API | JavaScript |
-| Calculator | Responsive Calculator | HTML CSS JS |
+A productivity dashboard for managing tasks, timetables, notes,
+goals and study sessions.
 
+**Tech Stack:** HTML • CSS • JavaScript • LocalStorage
+ 🌐 [Live Demo](https://yadavpriyanshii.github.io/student_activity_dashboard/)
+ 💻 [Source Code](https://github.com/yadavpriyanshii/student_activity_dashboard)
 
 ## 📊 GitHub Stats
 
